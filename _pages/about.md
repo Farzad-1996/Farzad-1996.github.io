@@ -12,7 +12,7 @@ Greetings!!!
 
 <div style="text-align: justify"> 
 
-I am Farzad Ahmed, a second year Ph.D. Student, at <a href="https://www.gmu.edu/">George Mason University</a>, Fairfax, VA, USA in the <a href="https://cs.gmu.edu/">Department of CS</a>. I am working as a Graduate Research Assistant at George Mason University under the supervision of <a href="https://volgenau.gmu.edu/profiles/ouzuner">Professor Özlem Uzuner. My primary research interest lies in Natural Language Processing and Health Informatics.<br /><br /></div>
+I am Farzad Ahmed, a second year Ph.D. Student, at <a href="https://www.gmu.edu/">George Mason University</a>, Fairfax, VA, USA in the <a href="https://cs.gmu.edu/">Department of CS</a>. I am working as a Graduate Research Assistant under the supervision of <a href="https://volgenau.gmu.edu/profiles/ouzuner">Professor Özlem Uzuner. My primary research interest lies in Natural Language Processing and Health Informatics.<br /><br /></div>
    
 
 **For additional information, please see the [CV](https://Farzad-1996.github.io/cv/) and [publications](https://Farzad-1996.github.io/publications/).**
