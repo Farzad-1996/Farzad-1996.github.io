@@ -12,7 +12,7 @@ Greetings!!!
 
 <div style="text-align: justify"> 
 
-I am Farzad Ahmed, a Ph.D. Student, at <a href="https://www.gmu.edu/">George Mason University</a>, Fairfax, VA, USA in the <a href="https://cs.gmu.edu/">Department of CS</a>. I have completed B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. My primary research interest lies in Machine Learning Applications, Natural Language Processing, Computer Vision, and Image Processing.<br /><br /></div>
+I am Farzad Ahmed, a second year Ph.D. Student, at <a href="https://www.gmu.edu/">George Mason University</a>, Fairfax, VA, USA in the <a href="https://cs.gmu.edu/">Department of CS</a>. I am working as a Graduate Research Assistant at George Mason University under the supervision of <a href="https://volgenau.gmu.edu/profiles/ouzuner">Professor Özlem Uzuner. My primary research interest lies in Natural Language Processing and Health Informatics.<br /><br /></div>
    
 
 **For additional information, please see the [CV](https://Farzad-1996.github.io/cv/) and [publications](https://Farzad-1996.github.io/publications/).**
@@ -21,6 +21,7 @@ I am Farzad Ahmed, a Ph.D. Student, at <a href="https://www.gmu.edu/">George Mas
 
 
 # Activities 
+* <span style="color:Blue"> [August 21, 2024] </span> - Started working as a Graduate Research Assistant in the [Department of CS, George Mason University](https://www.gmu.edu/).
 * <span style="color:Blue"> [October 29, 2023] </span> - Reached 100+ citations on my Google Scholar profile. 
 * <span style="color:Blue"> [August 21, 2023] </span> - Started Ph.D. in the [Department of CS, George Mason University](https://www.gmu.edu/).
 * <span style="color:Blue"> [August 21, 2023] </span> - Joined as a Graduate Teaching Assistant in the [Department of CS, George Mason University](https://www.gmu.edu/).
