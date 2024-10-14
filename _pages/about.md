@@ -22,8 +22,8 @@ I am Farzad Ahmed, a second year Ph.D. Student, at <a href="https://www.gmu.edu/
 # Activities 
 * <span style="color:Blue"> [August 21, 2024] </span> - Started working as a Graduate Research Assistant in the [Department of CS, George Mason University](https://www.gmu.edu/).
 * <span style="color:Blue"> [October 29, 2023] </span> - Reached 100+ citations on my Google Scholar profile. 
-* <span style="color:Blue"> [August 21, 2023] </span> - Started Ph.D. in the [Department of CS, George Mason University](https://www.gmu.edu/).
 * <span style="color:Blue"> [August 21, 2023] </span> - Joined as a Graduate Teaching Assistant in the [Department of CS, George Mason University](https://www.gmu.edu/).
+* <span style="color:Blue"> [August 21, 2023] </span> - Started Ph.D. in the [Department of CS, George Mason University](https://www.gmu.edu/).
 * <span style="color:Blue"> [December 09, 2022] </span> - One paper got accepted at [ICCIT 2022](https://iccit.org.bd/2022/) .
 * <span style="color:Blue"> [September 29, 2022] </span> - Reached 50+ citations on my Google Scholar profile. 
 * <span style="color:Blue"> [September 27, 2022] </span> - One paper got accepted at [CSDE 2022](https://ieee-csde.org/csde2022) .
