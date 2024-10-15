@@ -9,6 +9,11 @@ redirect_from:
 
 ## Education 
 -------------
+<b>Ph.D., Computer Science</b><br />
+George Mason University<br />
+Fairfax, VA,USA<br />
+<i style='color:#000099;'>**Fall 2023 - Ongoing**</i>
+
 <b>B.Sc., Computer Science and Engineering</b><br />
 Ahsanullah University of Science and Technology<br />
 Dhaka, Bangladesh<br />
@@ -16,10 +21,20 @@ Dhaka, Bangladesh<br />
 
 ## Employment 
 -------------
+<b>Graduate Research Assistant</b><br />
+Department of Computer Science<br/>
+George Mason University<br />
+<i style='color:#000099;'>**May 2024 - Present**</i><br/>
+
+<b>Graduate Teaching Assistant</b><br />
+Department of Computer Science<br/>
+George Mason University<br />
+<i style='color:#000099;'>**August 2023 - May 2024**</i><br/>
+
 <b>Lecturer</b><br />
 Department of Computer Science and Engineering <br/>
 Ahsanullah University of Science and Technology<br />
-<i style='color:#000099;'>**December 2020 - Present**</i><br/>
+<i style='color:#000099;'>**January 2021 - August 2023**</i><br/>
 
 <b>Contractual Lecturer</b><br />
 Department of Computer Science and Engineering <br/>
