@@ -20,6 +20,7 @@ I am Farzad Ahmed, a second year Ph.D. Student, at <a href="https://www.gmu.edu/
 
 
 # Activities 
+* <span style="color:Blue"> [June 6, 2025] </span> - One abstract paper got accepted at [AMIA 2025 Annual Symposium](https://amia.org/education-events/amia-2025-annual-symposium).
 * <span style="color:Blue"> [April 30, 2025] </span> - One long paper got accepted at [Springer Multimedia Tools and Applications](https://link.springer.com/article/10.1007/s11042-025-20842-x) Q1 Journal.
 * <span style="color:Blue"> [August 21, 2024] </span> - Started working as a Graduate Research Assistant in the [Department of CS, George Mason University](https://www.gmu.edu/).
 * <span style="color:Blue"> [October 29, 2023] </span> - Reached 100+ citations on my Google Scholar profile. 
