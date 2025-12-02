@@ -14,7 +14,7 @@ redirect_from:
 
 
 * George Mason University, Fairfax, VA, USA.
-* **Graduate Research Assistant (MasonNLP Research Group)** [*out of 4.00*]
+* **Graduate Research Assistant (MasonNLP Research Group)**
 * **Supervisor:** [Özlem Uzuner](https://scholar.google.com/citations?user=jAZ90RIAAAAJ&hl=en), Professor and Department Chair, Department of IST, GMU
 
 ### B.Sc. in Computer Science and Engineering
