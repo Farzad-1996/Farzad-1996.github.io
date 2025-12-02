@@ -10,10 +10,9 @@ author_profile: true
 
 ### [2020 - *Current*]
 -----------
-* Image Captioning.
-* Explainable Artificial Intelligence for Text and Image.
-* Paraphrasing of Bangla Text.
-* Topic Modelling.
+* Medical Fact Checking.
+* Automated Identification of Incidentalomas from Radiology Reports.
+* Explainable Artificial Intelligence for Text and Image in Medical AI.
 
 ## Undergraduate Course Projects [2015-2020]
 ----------------
