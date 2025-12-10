@@ -20,7 +20,7 @@ I am Farzad Ahmed, a Ph.D. Student, at <a href="https://www.gmu.edu/">George Mas
 
 
 # Activities 
-* <span style="color:Blue"> [December 5, 2025] </span> - Two long paper submitted (under review) at [Journal of Biomedical Informatics](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics) Q1 Journal.
+* <span style="color:Blue"> [December 5, 2025] </span> - Two long papers submitted (under review) at [Journal of Biomedical Informatics](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics) Q1 Journal.
 * <span style="color:Blue"> [June 6, 2025] </span> - One paper got accepted at [AMIA 2025 Annual Symposium](https://amia.org/education-events/amia-2025-annual-symposium).
 * <span style="color:Blue"> [April 30, 2025] </span> - One long paper got accepted at [Springer Multimedia Tools and Applications](https://link.springer.com/article/10.1007/s11042-025-20842-x) Q1 Journal.
 * <span style="color:Blue"> [August 21, 2024] </span> - Started working as a Graduate Research Assistant in the [Department of CS, George Mason University](https://www.gmu.edu/).
