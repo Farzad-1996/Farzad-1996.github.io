@@ -30,6 +30,7 @@ redirect_from:
 # Participation and Awards
 
 * **Dean's List of Honors** (Bachelor of Science)
+* Participated in American Medical Informatics Association (AMIA) 2025 Annual Symposium, Atlanta, GA, USA
 * Participated in International Conference on Electronics, Communications, and Information Technology 2021 (ICECIT 2021), Dhaka, Bangladesh
 * Participated in 2020 IEEE Region 10 Symposium (TENSYMP 2020), Dhaka, Bangladesh
 
