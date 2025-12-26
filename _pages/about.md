@@ -20,7 +20,7 @@ I am Farzad Ahmed, a Ph.D. Student, at <a href="https://www.gmu.edu/">George Mas
 
 
 # Activities 
-* <span style="color:Blue"> [December 15, 2025] </span> - Served as a peer reviewer for the [Journal of Biomedical Informatics](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics) Q1 Journal (Elsevier); completed two manuscript reviews.
+* <span style="color:Blue"> [December 15, 2025] </span> - Served as a peer reviewer for the [Journal of Biomedical Informatics](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics) Q1 Journal (Elsevier).
 * <span style="color:Blue"> [December 5, 2025] </span> - Two long papers submitted (under review) at [Journal of Biomedical Informatics](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics) Q1 Journal (Elsevier).
 * <span style="color:Blue"> [June 6, 2025] </span> - One paper got accepted at [AMIA 2025 Annual Symposium](https://amia.org/education-events/amia-2025-annual-symposium).
 * <span style="color:Blue"> [April 30, 2025] </span> - One long paper got accepted at [Springer Multimedia Tools and Applications](https://link.springer.com/article/10.1007/s11042-025-20842-x) Q1 Journal.
