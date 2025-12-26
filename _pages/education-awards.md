@@ -29,7 +29,7 @@ redirect_from:
 <br /> 
 # Participation and Awards
 
-* **Dean's List of Honors** (Bachelor of Science)
+* **Dean's List of Honors** (Bachelor of Science) — Recognition for sustained academic excellence during undergraduate studies.
 * **George Mason University Graduate Award** — Merit-based award for graduate students demonstrating excellence in research and academic achievement.
 * Participated in American Medical Informatics Association (AMIA) 2025 Annual Symposium, Atlanta, GA, USA
 * Participated in International Conference on Electronics, Communications, and Information Technology 2021 (ICECIT 2021), Dhaka, Bangladesh
