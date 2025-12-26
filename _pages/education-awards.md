@@ -33,6 +33,7 @@ redirect_from:
 * **George Mason University Graduate Award** — Merit-based award for graduate students demonstrating excellence in research and academic achievement.
 * **Third Place, Student Research Presentations** — Spring 2025 Inaugural PhD Symposium, Department of Information Sciences and Technology, George Mason University.
 * **Dean's List of Honors** (Bachelor of Science) — Recognition for sustained academic excellence during undergraduate studies.
+* **Peer Reviewer**, Journal of Biomedical Informatics (Elsevier), 2025
 * Participated in American Medical Informatics Association (AMIA) 2025 Annual Symposium, Atlanta, GA, USA
 * Participated in International Conference on Electronics, Communications, and Information Technology 2021 (ICECIT 2021), Dhaka, Bangladesh
 * Participated in 2020 IEEE Region 10 Symposium (TENSYMP 2020), Dhaka, Bangladesh
