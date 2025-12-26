@@ -29,6 +29,7 @@ redirect_from:
 <br /> 
 # Participation and Awards
 
+
 * **George Mason University Graduate Award** — Merit-based award for graduate students demonstrating excellence in research and academic achievement.
 * **Third Place, Student Research Presentations** — Spring 2025 Inaugural PhD Symposium, Department of Information Sciences and Technology, George Mason University.
 * * **Dean's List of Honors** (Bachelor of Science) — Recognition for sustained academic excellence during undergraduate studies.
