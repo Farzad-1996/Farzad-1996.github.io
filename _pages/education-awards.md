@@ -19,6 +19,7 @@ redirect_from:
 * Graduate Research Assistant **(MasonNLP Research Group)**
 * **Research areas:** Agentic AI and multi-agent LLM architectures, retrieval-augmented generation, LLM evaluation, clinical natural language processing
 * **Supervisor:** [Özlem Uzuner](https://scholar.google.com/citations?user=jAZ90RIAAAAJ&hl=en), Professor and Department Chair, Department of IST, GMU
+
 ### M.S. in Computer Science
  
  
@@ -26,6 +27,7 @@ redirect_from:
 * **Awarded:** August 2026
 * **CGPA: 3.90** [*out of 4.00*]
 * **Selected coursework:** Deep Learning, Theory and Application of Data Mining, Database Systems, Analysis of Algorithms, Software Testing, Computer Graphics
+
 ### B.Sc. in Computer Science and Engineering
  
  
@@ -36,6 +38,7 @@ redirect_from:
 * **Thesis title:** ["Early Depression Detection from Social Media Using Deep Learning Techniques"](https://Farzad-1996.github.io/files/Farzad_B.Sc._Thesis.pdf) 
 * **Supervisor:** [Faisal Muhammad Shah](https://scholar.google.com/citations?user=su683LQAAAAJ&hl=en), Associate Professor, Department of CSE, AUST
 <br /> 
+
 # Participation and Awards
  
 ### Awards and Honors
@@ -44,6 +47,7 @@ redirect_from:
 * **George Mason University Graduate Award** — Merit-based award for graduate students demonstrating excellence in research and academic achievement.
 * **Third Place, Student Research Presentations** — Spring 2025 Inaugural PhD Symposium, Department of Information Sciences and Technology, George Mason University.
 * **Dean's List of Honors** (Bachelor of Science) — Recognition for sustained academic excellence during undergraduate studies.
+
 ### Academic Service
  
  
@@ -51,6 +55,7 @@ redirect_from:
 * **Organizer**, International Conference on Computer and Information Technology (ICCIT) 2020
 * **Advisor**, Cefalo CodeFiesta 2022 Inter-University Programming Contest
 * **Organizer**, Intra-AUST Programming Contest 2018
+
 ### Conferences and Symposia
  
  
