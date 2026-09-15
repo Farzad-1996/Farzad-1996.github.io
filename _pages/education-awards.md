@@ -1,4 +1,12 @@
-
+---
+layout: archive
+title: ""
+permalink: /education-awards/
+author_profile: true
+redirect_from:
+  - /resume
+---
+ 
  
 # Education
  
@@ -58,5 +66,6 @@
 * **Presenter**, American Medical Informatics Association (AMIA) 2025 Annual Symposium, Atlanta, GA, USA
 * Participated in International Conference on Electronics, Communications, and Information Technology 2021 (ICECIT 2021), Dhaka, Bangladesh
 * Participated in 2020 IEEE Region 10 Symposium (TENSYMP 2020), Dhaka, Bangladesh
-___________________________________________
+<!-- -->
  
+___________________________________________
